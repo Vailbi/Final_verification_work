@@ -34,3 +34,4 @@ string Print(string[] array)
     }
     return output;
 }
+Console.WriteLine($"[{Print(newArray)}]");
